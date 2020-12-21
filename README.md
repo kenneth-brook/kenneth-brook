@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-brook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
