@@ -1,4 +1,5 @@
 # Modern code collection of Kenneth Brook
+- With some archive works going back as far as 2011.
 ## A very style oriented, frontend JavaScript developer. (Trained as a fullstack)
 ### Currently available for employment opportunities.
 ### Hi there 👋
