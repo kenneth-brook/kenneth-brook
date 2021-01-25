@@ -2,7 +2,7 @@
 - With some archive works going back as far as 2011.
 ## A very style oriented, frontend JavaScript developer. (Trained as a fullstack)
 ### Currently available for employment opportunities..
-### React & SASS is my passion.... Have API? Will render.
+### React & SASS is my passion.... Have API? Will render..
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-brook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
