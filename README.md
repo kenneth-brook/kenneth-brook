@@ -1,7 +1,8 @@
-# Modern code collection of Kenneth Brook
+# The ever growing code collection of Kenneth Brook
+- Primary developer of Town Tripin (A mobile focused tourism app)
+- Primary developer of Emerge-N-See (A near real time map rendering of incedents for 911 call centers)
 - With some archive works going back as far as 2011.
-## A very style oriented, frontend JavaScript developer. (Trained as a fullstack)
-### React & SASS is my passion.... Have API? Will render...
+## A very style oriented, fullstack JavaScript developer.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-brook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
