@@ -1,7 +1,14 @@
 # The ever growing code collection of Kenneth Brook
 - Primary developer of Town Tripin (A mobile focused tourism app)
-- Primary developer of Emerge-N-See (A near real time map rendering of incedents for 911 call centers)
-- With some archive works going back as far as 2011.
+- Primary developer of Emerge-N-See - Public transparency software solutions.
+  - 911 Emerge-N-See.
+    - A near real time map rendering incidents for 911 call centers.
+    - Built in weather alert system.
+    - Emergency management/Agency report generation tools.
+  - 311 Emerge-N-See.
+    - Public reporting portal for neighborhood deficiencies. 
+- Primary developer of 365 EasyFlow.
+  - A CMS system designed for visitors bureaus and chambers of commerce. 
 ## A very style oriented, fullstack JavaScript developer.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=transparent)
