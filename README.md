@@ -1,15 +1,36 @@
-# The ever growing code collection of Kenneth Brook
-- Primary developer of Town Tripin (A mobile focused tourism app)
-- Primary developer of Emerge-N-See - Public transparency software solutions.
-  - 911 Emerge-N-See.
-    - A near real time map rendering incidents for 911 call centers.
-    - Built in weather alert system.
-    - Emergency management/Agency report generation tools.
-  - 311 Emerge-N-See.
-    - Public reporting portal for neighborhood deficiencies. 
-- Primary developer of 365 EasyFlow.
-  - A CMS system designed for visitors bureaus and chambers of commerce. 
-## A very style oriented, fullstack JavaScript developer.
+Full-Stack Developer | CTO @ The Elden Thread | AI Explorer | Builder of Bold Ideas
+
+"I don’t just commit code — I commit to vision."
+
+👨‍💻 Solo architect behind scalable web platforms, real-time reporting tools, and AI-enhanced tourism tech.
+🧵 Co-owner of The Elden Thread, fusing handcrafted embroidery with custom-built Shopify systems and dynamic personalization.
+⚙️ Obsessed with performance, precision, and pushing vanilla JavaScript to its limits.
+📦 Building SPAs without the fluff.
+🌐 Deploying on AWS, backed by PostgreSQL, and powered by sheer will.
+
+🔍 Areas of Focus:
+
+Custom Single Page Apps (No frameworks required)
+
+AI-driven eCommerce enhancements
+
+DevOps on AWS (EC2, Lambda, API Gateway, RDS)
+
+Data-rich dashboards and real-time controls
+
+Shopify API integrations + storefront evolution
+
+Geolocation, Mapbox, and tourism-focused UIs
+
+📌 Currently Working On:
+
+A dynamic component styling system for white-labeled reporting dashboards
+
+A generative AI-enhanced album builder for events with QR-upload integration
+
+A next-gen tourism platform with itinerary AI and monetized maps
+
+Growing The Elden Thread into a full-blown legacy brand — online and off
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-brook&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=hack,typescript,shell,twig,pug)](https://github.com/anuraghazra/github-readme-stats)
