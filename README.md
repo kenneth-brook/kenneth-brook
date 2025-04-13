@@ -3,9 +3,13 @@ Full-Stack Developer | CTO @ The Elden Thread | AI Explorer | Builder of Bold Id
 "I don’t just commit code — I commit to vision."
 
 👨‍💻 Solo architect behind scalable web platforms, real-time reporting tools, and AI-enhanced tourism tech.
+
 🧵 Co-owner of The Elden Thread, fusing handcrafted embroidery with custom-built Shopify systems and dynamic personalization.
+
 ⚙️ Obsessed with performance, precision, and pushing vanilla JavaScript to its limits.
+
 📦 Building SPAs without the fluff.
+
 🌐 Deploying on AWS, backed by PostgreSQL, and powered by sheer will.
 
 🔍 Areas of Focus:
