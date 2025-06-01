@@ -12,7 +12,7 @@
 - **AI-enhanced personalization & automation**
 - **AWS infrastructure**: Lambda, EC2, API Gateway, RDS
 - **Real-time dashboards & reporting systems**
-- 🗺**Geolocation + tourism-focused UX with Mapbox**
+- **Geolocation + tourism-focused UX with Mapbox**
 
 ---
 
