@@ -1,40 +1,38 @@
-Full-Stack Developer | CTO @ The Elden Thread | AI Explorer | Builder of Bold Ideas
+# Full-Stack Developer | eCommerce Systems Architect | Builder of Bold Ideas
 
-"I don’t just commit code — I commit to vision."
+> _“I don’t just commit code — I commit to vision.”_
 
-👨‍💻 Solo architect behind scalable web platforms, real-time reporting tools, and AI-enhanced tourism tech.
+🧵 **Co-founder of TKB Custom Design**, a multi-brand operation powering everything from high-end embroidery to gamer gear. Each storefront is custom-coded or API-integrated — built to scale, personalize, and perform.
 
-🧵 Co-owner of The Elden Thread, fusing handcrafted embroidery with custom-built Shopify systems and dynamic personalization.
+---
 
-⚙️ Obsessed with performance, precision, and pushing vanilla JavaScript to its limits.
+### ⚙️ Technical Focus
+- 🔧 **Custom Single Page Apps** (no frameworks required)
+- 🛒 **Shopify API integrations & headless storefronts**
+- 🤖 **AI-enhanced personalization & automation**
+- ☁️ **AWS infrastructure**: Lambda, EC2, API Gateway, RDS
+- 📊 **Real-time dashboards & reporting systems**
+- 🗺️ **Geolocation + tourism-focused UX with Mapbox**
 
-📦 Building SPAs without the fluff.
+---
 
-🌐 Deploying on AWS, backed by PostgreSQL, and powered by sheer will.
+### 🛍️ Brands Under the TKB Banner
 
-🔍 Areas of Focus:
+| Brand | Focus |
+|-------|-------|
+| **The Elden Thread** | Magical embroidery meets modern tech |
+| **Pancake Cat** | Meme-worthy gaming gear & guild merch |
+| **Dirty Dog** | 4-wheelers, mud tracks, and dogs that drive them |
+| **The Elden Brew** | Herbal tea blends with embroidered packaging |
+| **TKB B2B** | Contract fulfillment for schools, teams & orgs |
 
-Custom Single Page Apps (No frameworks required)
+---
 
-AI-driven eCommerce enhancements
-
-DevOps on AWS (EC2, Lambda, API Gateway, RDS)
-
-Data-rich dashboards and real-time controls
-
-Shopify API integrations + storefront evolution
-
-Geolocation, Mapbox, and tourism-focused UIs
-
-📌 Currently Working On:
-
-A dynamic component styling system for white-labeled reporting dashboards
-
-A generative AI-enhanced album builder for events with QR-upload integration
-
-A next-gen tourism platform with itinerary AI and monetized maps
-
-Growing The Elden Thread into a full-blown legacy brand — online and off
+### 📍 Currently Building
+- 🎨 A **component styling engine** for white-labeled dashboards  
+- 📸 A **generative album builder** with QR-based upload integration  
+- 🧭 A **next-gen tourism platform** with AI itineraries + monetized maps  
+- 🔄 Unified back-end systems for multi-storefront fulfillment
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-brook&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=hack,typescript,shell,twig,pug)](https://github.com/anuraghazra/github-readme-stats)
