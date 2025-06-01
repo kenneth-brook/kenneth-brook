@@ -2,7 +2,7 @@
 
 > _“I don’t just commit code — I commit to vision.”_
 
-🧵 **Co-founder of TKB Custom Design**, a multi-brand operation powering everything from high-end embroidery to gamer gear. Each storefront is custom-coded or API-integrated — built to scale, personalize, and perform.
+🧵 **Co-founder & CTO of TKB Custom Design**, a multi-brand operation powering everything from high-end embroidery to gamer gear. Each storefront is custom-coded or API-integrated — built to scale, personalize, and perform.
 
 ---
 
