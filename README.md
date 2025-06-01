@@ -1,4 +1,4 @@
-# Full-Stack Developer | eCommerce Systems Architect | Builder of Bold Ideas
+# Full-Stack Dev | eCommerce Architect | Systems Builder
 
 > _“I don’t just commit code — I commit to vision.”_
 
