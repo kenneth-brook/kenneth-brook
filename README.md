@@ -20,10 +20,8 @@
 
 | Brand | Focus |
 |-------|-------|
-| **The Elden Thread** | Magical embroidery meets modern tech |
 | **Pancake Cat** | Meme-worthy gaming gear & guild merch |
 | **Dirty Dog** | 4-wheelers, mud tracks, and dogs that drive them |
-| **The Elden Brew** | Herbal tea blends with embroidered packaging |
 | **TKB B2B** | Contract fulfillment for schools, teams & orgs |
 
 ---
