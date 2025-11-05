@@ -34,5 +34,5 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=transparent)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenneth-brook&show_icons=true&theme=transparent&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-brook&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=hack,shell,twig,pug,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
